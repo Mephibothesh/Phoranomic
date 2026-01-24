@@ -29,3 +29,31 @@
 论文自包含，无需提前了解范畴论或关系哲学
 
 证明过程清晰，每一步都有物理解释
+
+Core Idea
+Most textbooks derive special relativity starting from the "invariance of the speed of light." I believe this reverses cause and effect.
+
+The foundational question is: How do multiple rational observers coordinate their descriptions of the same physical reality?
+
+Three Axioms
+Linearity (Descriptive Consistency)
+
+Causal Isomorphism (Logical Consistency)
+
+Proper Time Scalar Invariance (Empirical Consistency)
+
+Main Result
+From these three axioms, Lorentz symmetry (the core mathematical structure of special relativity) necessarily follows.
+
+This means: When different observers must share an intelligible physical world, Minkowski geometry is the communication protocol they must agree upon.
+
+Philosophical Significance
+This is a mathematical instantiation of "relational priority over ontology":
+Spacetime structure does not exist a priori; it emerges from the necessity of coordination between observers.
+
+How to Read
+Suitable for readers with undergraduate physics and linear algebra background
+
+Self-contained; no prior knowledge of category theory or relational philosophy required
+
+Clear proofs with physical explanations at each step
